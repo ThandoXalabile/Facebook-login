@@ -1,0 +1,48 @@
+body {
+    background-color: #EDF0F5;
+    font-family: Arial;
+    padding-left: 2px;
+    height: 100vh;
+}
+
+.left {
+    margin: 10%;
+    margin-top: 15%;
+}
+
+.right {
+    margin-top: 25%;
+    /* box-shadow: rgb(105, 103, 103) 2px 5px 5px 5px;
+    border: none; */
+    /* border-radius: 8px; */
+    padding: 20%;
+}
+
+.connect {
+    width: 100%;
+    background-color: #1876f1;
+    /* height: 20%; */
+    color: white;
+    margin-top: 5%;
+}
+
+.new {
+    background-color: #42B72A;
+    color: white;
+}
+
+.btnnew {
+    padding-left: 15%;
+}
+
+h1 {
+    color: #1877F2;
+    font-size: 50px;
+    margin-top: 20px;
+    font-weight: 900;
+}
+
+.h6 {
+    padding: 12px;
+    font-size: 12px;
+}
